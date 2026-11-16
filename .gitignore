@@ -3,3 +3,20 @@ __pycache__/
 .env
 .DS_Store
 Thumbs.db
+
+# Safety System Ignores
+node_modules/
+.env.local
+*.log
+.terraform/
+*.exe
+*.pack
+venv/
+.venv/
+.next/
+dist/
+build/
+*.apk
+books/
+*.db
+*.onnx

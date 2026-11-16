@@ -89,7 +89,7 @@ OpenCV-Color-Detection/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/muhammadokashapak/OpenCV-Color-Detection.git
+git clone https://github.com/okashaxortlogix/OpenCV-Color-Detection.git
 cd OpenCV-Color-Detection
 
 # 2. Create isolated environment
@@ -115,7 +115,7 @@ python color_detection.py -i path/to/your/custom_image.png
 **Muhammad Okasha**  
 *AI & Machine Learning Specialist | Full-Stack Architect*  
 - **GitHub:** [@muhammadokashapak](https://github.com/muhammadokashapak)
-- **Repository:** [OpenCV-Color-Detection](https://github.com/muhammadokashapak/OpenCV-Color-Detection)
+- **Repository:** [OpenCV-Color-Detection](https://github.com/okashaxortlogix/OpenCV-Color-Detection)
 
 ---
 
